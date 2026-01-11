@@ -8,15 +8,17 @@ body {
 :root {
     --orange: #FEBC8D;
     --purple: #8D05FE;
+    --yellow: #FEF689;
 }
 
-#heroImg1{
+#heroImg1 {
     border-top-left-radius: 100px;
     border-top-right-radius: 100px;
     border-bottom-right-radius: 1000px;
     border-bottom-left-radius: 1000px;
 }
-#heroImg2{
+
+#heroImg2 {
     border-top-left-radius: 1000px;
     border-top-right-radius: 1000px;
     border-bottom-right-radius: 100px;
