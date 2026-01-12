@@ -1,8 +1,8 @@
 import React from 'react'
 
-const Description = () => {
+const Description = ({text}) => {
   return (
-    <div>Description</div>
+    <p className='text-zinc-500 pr-2 sm:pr-0 sm:w-4/5 lg:w-96'>{text}</p>
   )
 }
 

@@ -3,7 +3,7 @@ import React from 'react'
 
 const HeroContent = () => {
   return (
-    <section className='w-full h-screen max-h-150 relative z-20 flex items-center pb-30 md:pb-10 justify-center text-center'>
+    <section className='w-full h-screen lg:max-h-150 relative z-20 flex items-center pb-30 md:pb-10 justify-center text-center'>
       <div className="content flex flex-col gap-3">
         <p className='font-medium text-zinc-400'>Igniting the Spark of Inspiration</p>
         <div className="big-heading text-[clamp(2rem,12vw,5rem)]  font-medium" style={{

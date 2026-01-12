@@ -3,7 +3,7 @@ import React from 'react'
 
 const HeroBackground = () => {
   return (
-    <section className='w-full h-full max-h-150 flex absolute top-0 left-0 z-10'>
+    <section className='w-full h-full flex absolute top-0 left-0 z-10'>
       <div className="left w-full md:w-1/2 h-full pt-28 pl-10 lg:pl-12 flex flex-col gap-10 justify-between pb-16">
       {/* img */}
       <img id='heroImg1' className='hidden md:block w-[clamp(190px,10vw,320px)] h-[clamp(150px,50vw,230px)]  opacity-50 md:opacity-100 -rotate-12 object-cover' src="./hero1.webp" alt="hero1" />

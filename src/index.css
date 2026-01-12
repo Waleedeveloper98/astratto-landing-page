@@ -24,3 +24,9 @@ body {
     border-bottom-right-radius: 100px;
     border-bottom-left-radius: 100px;
 }
+.roundCard{
+    border-bottom-left-radius: 150px;
+}
+.roundimg{
+    border-bottom-left-radius: 120px;
+}
