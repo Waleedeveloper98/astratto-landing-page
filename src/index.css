@@ -9,6 +9,7 @@ body {
     --orange: #FEBC8D;
     --purple: #8D05FE;
     --yellow: #FEF689;
+    --gray: #C5C5C5;
 }
 
 #heroImg1 {
@@ -24,9 +25,21 @@ body {
     border-bottom-right-radius: 100px;
     border-bottom-left-radius: 100px;
 }
-.roundCard{
+
+.roundCard {
     border-bottom-left-radius: 150px;
 }
-.roundimg{
+
+.roundimg {
     border-bottom-left-radius: 120px;
+}
+
+.orange-text{
+    color: var(--orange);
+}
+.gray-text{
+    color: var(--gray);
+}
+.purple-text{
+    color: var(--purple);
 }
